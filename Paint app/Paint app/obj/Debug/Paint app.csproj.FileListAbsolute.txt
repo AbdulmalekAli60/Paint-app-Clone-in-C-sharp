@@ -1,0 +1,10 @@
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\bin\Debug\Paint app.exe.config
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\bin\Debug\Paint app.exe
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\bin\Debug\Paint app.pdb
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\obj\Debug\Paint app.csproj.AssemblyReference.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\obj\Debug\Paint_app.Form1.resources
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\obj\Debug\Paint_app.Properties.Resources.resources
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\obj\Debug\Paint app.csproj.GenerateResource.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\obj\Debug\Paint app.csproj.CoreCompileInputs.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\obj\Debug\Paint app.exe
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Paint app\Paint app\obj\Debug\Paint app.pdb
